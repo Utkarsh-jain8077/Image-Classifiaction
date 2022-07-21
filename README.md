@@ -1,1 +1,1 @@
-# Mini.Project
+Image Classiifcation
